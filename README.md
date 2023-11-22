@@ -50,7 +50,9 @@ Each sorting algorithm's time complexity has been analyzed using Big O notation 
 This project is developed and maintained by the students of ALX Software Engineering program as part of the 0x1B.C curriculum.
 
 Contributors:
-- Sopuluchukwu Mba(link-to-your-github) - Contact Information
+- Sopuluchukwu Mba(https://github.com/uluchukwu)
+
+## Contact Information
 - www.linkedin.com/in/sopuluchukwu-mba
 - www.gmail.com/urealsean12
 
